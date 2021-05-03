@@ -8,6 +8,9 @@ Hello! My name is Natalie Morgan. I am a senior at Lehigh University with a majo
 <h1> Using DataWrapper </h1>
 <iframe title="Lehigh Enrollment Fall 2020" aria-label="chart" id="datawrapper-chart-HR2IL" src="https://datawrapper.dwcdn.net/HR2IL/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="592"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+<h1> Google Tour of Southside Bethlehem</h1>
+This tour shows a tour of Southside Bethlehem from the perspective of a Lehigh University student.
+<iframe width="100%" height="480px" src="https://poly.google.com/view/22NqbHqfoj6/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 <h1> Using ArcGIS to Map Twitter Data </h1>
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Bridgerton Twitter" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=a6809d090b7a4bc1b009038516e8c069&extent=-113.5246,36.8117,-70.4582,48.3728&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe>
 <h1>Using Tableau To Visualize Data</h1>
