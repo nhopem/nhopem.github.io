@@ -6,7 +6,7 @@ Hello! My name is Natalie Morgan. I am a senior at Lehigh University with a majo
 [My Portfolio](https://nataliehm.myportfolio.com)
 <br>
 <h1> Using DataWrapper </h1>
-The following two charts were made in data wrapper. I took data from Lehigh's Office of Institutional Research & Strategic Analysis website. Lehigh is one of the only Universities in the United States that has admissions information readily available on their website.
+The following two charts were made in data wrapper. I took data from Lehigh's Office of Institutional Research & Strategic Analysis website. Lehigh is one of the only Universities in the United States that has admissions information readily available on their website. The "Other" section includes admissions in programs such as the Education program and the "Intercollegiate Programs" includes programs such as the IDEAS program.
 <iframe title="Lehigh Enrollment Fall 2020" aria-label="chart" id="datawrapper-chart-HR2IL" src="https://datawrapper.dwcdn.net/HR2IL/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="592"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 <br>
