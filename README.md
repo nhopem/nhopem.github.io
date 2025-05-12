@@ -1,5 +1,5 @@
 
-Hello! My name is Natalie Morgan. I am a senior at Lehigh University with a major in Graphic Design and a minor in Mass Communications. In my free time I enjoy painting and playing with my dogs.
+Hello! My name is Natalie Morgan.
 <br>
 ![Natalie](https://pbs.twimg.com/profile_images/1262767254485286912/4wUwC9Xc_400x400.jpg)
 <br>
